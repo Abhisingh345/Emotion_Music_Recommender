@@ -50,7 +50,7 @@ Convolutional Neural Networks (CNN) Emotion Classification Models REST API Integ
 
 👨‍💻 Author
 
-Harshit Gupta B.Tech Final Year Aspiring Software Development Engineer (SDE)
+Abhinav Singh B.Tech Final Year Aspiring Software Development Engineer (SDE)
 
 🌟 Future Improvements
 
