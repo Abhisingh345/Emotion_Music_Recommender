@@ -1,4 +1,4 @@
-# Emotion_Music_Recommender
+# Face_Emotion_Music_Recommender
 🚀 FACE EMOTION BASED MUSIC RECOMMENDER 🎭🎵
 
 📌 Project Overview
